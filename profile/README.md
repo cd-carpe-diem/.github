@@ -38,7 +38,7 @@
 | Position | Frontend & UI/UX | 팀장 & Backend Develop | Frontend & UI/UX | Backend Develop | Backend Develop |
 |   Git    | [@sol2588](https://github.com/sol2588) | [@olive-su](https://github.com/olive-su) | [@ljy6712](https://github.com/ljy6712) | [@nickhealthy](https://github.com/nickhealthy)| [@XxoSio](https://github.com/XxoSio) |
 
-- 프로젝트 기간: 2023년 1월 25일 ~ 2023년 3월 11일(5주)
+- 프로젝트 기간: 2023년 2월 2일 ~ 2023년 3월 11일
 - 서비스 보러가기: [jungle-carpediem.site](https://jungle-carpediem.site/)
 - 소개 및 시연 영상: [Youtube](https://youtu.be/m-FIanzrorc)
 - 최종 발표 영상 : [Youtube](https://youtu.be/2QMQA4y3c4c)
